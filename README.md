@@ -48,6 +48,8 @@ You can then select **Space Is The Place** from Omarchy’s theme selector.
 - **Omarchy OS** by [tahavr](https://github.com/tahavr)
 - **Solarized Osaka** Neovim theme by [craftzdog](https://github.com/craftzdog/solarized-osaka.nvim)
 
+---
+
 ## Installation Steps
 
 1. Install tmux:
