@@ -1,15 +1,15 @@
 # Omarchy Setup
 
-This repository contains my personal configuration and workflow adjustments for [Omarchy OS](https://omarchy.org), a modern, keyboard-driven Arch Linux environment built on Hyprland.
+This repository contains my personal dotfiles and workflow adjustments for [Omarchy OS](https://omarchy.org), an **Arch-based** desktop built around the **Hyperland** Wayland compositor.
 
-Omarchy already provides an excellent experience out of the box.
-This project does not attempt to modify or replace its defaults, but instead adds a few small refinements and tools that improve my personal workflow.
+Omarchy already provides an excellent experience (out of the box).
+This project doesn't attempt to modify or replace its defaults; it adds small refinements that fit my workflow.
 
 ---
 
 ## What's Included
 
-- Custom theme: **Space Is The Place**
+- Custom theme: **Minimal Set**
 - Neovim configuration
 - tmux configuration
 - Helper scripts
@@ -32,14 +32,13 @@ ln -s ~/.config/omarchy-setup/nvim ~/.config/nvim
 ln -s ~/.config/omarchy-setup/tmux/.tmux.conf ~/.tmux.conf
 ```
 
-You can then select **Space Is The Place** from Omarchy’s theme selector.
+Then select **Minimal Set** from Omarchy’s theme selector.
 
 ---
 
 ## Notes
 
 - All configuration remains compatible with the official Omarchy structure.
-- This setup keeps most customization inside the **theme folder**, making it easy to manage.
 
 ---
 
